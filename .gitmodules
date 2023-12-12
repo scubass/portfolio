@@ -1,0 +1,3 @@
+[submodule "calculator_rust"]
+	path = calculator_rust
+	url = git@github.com:scubass/calculator_rust.git
